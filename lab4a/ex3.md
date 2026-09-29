@@ -134,14 +134,10 @@ When professors teach a class to students in a classroom or lab and broadcast it
  |  Action  | 	Duration, unless extenuating circumstances arise  | 	Responsibility  | 
  |  ---  |  ---  |  ---  | 
  |  1. Complete an Academic Integrity Report (PDF).
- | 	Within five Seneca business days of the alleged violation	 |  Faculty
-
+ | 	Within five Seneca business days of the alleged violation	 |  Faculty |
  |  2. Deliver a copy of the completed Academic Integrity Report and a blank Student Response to the Academic Integrity Report (PDF) to the student and specified school liaison electronically. | 	Within five Seneca business days of the alleged violation	 |  Faculty
-
  |  3. At the student’s discretion, submit a completed Student Response to the Academic Integrity Report to the chair and/or specified school liaison.  | 	Within five Seneca business days from receipt of the Academic Integrity Report	 |  Student  | 
-
  |  4. Convene a meeting of the Academic Integrity Committee at which the student and/or faculty member may request to join in person or virtually  | 	With 10 Seneca business days from the student’s receipt of the Academic Integrity Report  | 	Academic Integrity Committee chair  | 
-
  |  5. Provide the Academic Integrity Committee’s decision in writing to the student, with copies sent to the respective faculty, coordinator, chair and/or specified school liaison.  | 	Within five Seneca business days  | 	Academic Integrity Committee chair
  |  6. a) If it is concluded that no academic integrity violation has occurred, a letter stating the decision will be prepared and delivered to the student, with a copy delivered to the faculty, chair and/or specified school liaison, electronically or in person. The Academic Integrity Report will be destroyed.  | 	Within five Seneca business days  | 	Academic Integrity Committee chair  | 
  |  6. b) If it is concluded that an academic integrity violation has occurred, a letter stating the decision, as well as available supports, will be delivered to the student with a copy to the faculty, chair and/or specified school liaison. Sanctions will then be imposed, as outlined in the Academic Integrity Offences – Sanctions document.  | 	Within five Seneca business days of receipt of the Academic Integrity Committee’s decision  | 	Academic Integrity Committee chair/ student  | 
